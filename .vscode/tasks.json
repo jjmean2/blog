@@ -11,8 +11,8 @@
       "problemMatcher": []
     },
     {
-      "label": "Typora에서 blog 목록 열기",
-      "command": "open -a Typora ./src/content/blog",
+      "label": "Typora에서 content 목록 열기",
+      "command": "open -a Typora ./src/content",
       "type": "shell",
       "presentation": {
         "reveal": "always"
